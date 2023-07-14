@@ -2,7 +2,7 @@
 
 Predict value of a customer's transaction using LightGBM
 
-Access Dataset from [Kaggle](https://www.kaggle.com/competitions/santander-value-prediction-challenge/overview)
+Access the dataset from [Kaggle](https://www.kaggle.com/competitions/santander-value-prediction-challenge/overview)
 
 ## Project structure
 
