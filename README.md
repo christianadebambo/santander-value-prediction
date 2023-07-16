@@ -33,5 +33,3 @@ To use this code, follow these steps:
 - Adjust the file paths in the code to match the location of the dataset files.
 - Execute the code to preprocess the data, train the models, make predictions, and generate the submission file.
 - Review the RMSLE (Root Mean Squared Logarithmic Error) scores to evaluate the performance of the models.
-
-Please note that this code serves as a baseline solution and may require further customization, optimization, or experimentation to achieve better results.
